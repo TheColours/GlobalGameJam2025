@@ -15,7 +15,6 @@ An exciting stealth game where you must steal bubble tea and escape through the 
 #### Disguise System
 1. Throw bubbles at store shelves
 2. When a bubble hits a shelf, press `E` to transform into an item from that shelf
-3. ⚠️ **Important**: Stay close to your disguise shelf! Moving too far will expose you to the guards
 
 #### Stealth Tips
 - Choose your disguise locations strategically
